@@ -1,0 +1,16 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="android:Theme.Light" >
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/bg0_fine_day</item>
+    </style>
+     <style name="apptwo" parent="android:Theme.Light" >
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/bg0_fine_day</item>
+    </style>
+     <style name="appthree" parent="android:Theme.Light" >
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/bg0_fine_day</item>
+    </style>
+
+</resources>
